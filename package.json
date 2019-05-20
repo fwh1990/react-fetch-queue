@@ -1,0 +1,11 @@
+{
+  "name": "react-fetch-queue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fwh1990/react-fetch-queue.git",
+  "author": "范文华 <531362022@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
